@@ -1,6 +1,6 @@
 const assert = require('assert');
 
-const binaryToString = require('../problems/01-binary-to-string.js');
+const binaryToString = require('../problems/binary-to-string.js');
 
 describe('binaryToString converter', function() {
 
